@@ -1,5 +1,5 @@
-# cv
-CV ABREVIADO
+# cv Abreviado
+
 Ingeniera en Computación, egresada de la Universidad Católica de Santiago del Estero Departamento Académico San Salvador. 
 Educadora Internacional de Ingeniería ING.PAED.IGIP (Sociedad Internacional para la Pedagogía de la Ingeniería). 
 Cursó la maestría en Ingeniería de Software, Universidad de la Plata, Argentina.
